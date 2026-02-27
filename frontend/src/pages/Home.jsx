@@ -41,6 +41,7 @@ export default function Home() {
         </p>
     </div>  
     )}
+    <h6 className="site-warning">Obviously this is a joke website, you will not get free bricks. </h6>
     </>
   );
 }
