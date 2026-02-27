@@ -25,6 +25,7 @@ export default function Home() {
         <form onSubmit={FormHandler} className="bricks-form">
             <input type="text" name="username" placeholder="Username" className="bricks-input"></input>
             <input type="number" name="bricks-amount" placeholder="Bricks Amount" min="1" max="1000000" className="bricks-input"></input>
+            <p className="bricks-sign">FREE</p>
             <input type="submit" value="Receive" className="bricks-submit"></input>
         </form>
     </div>
