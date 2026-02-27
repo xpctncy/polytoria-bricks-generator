@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/polytoria-bricks-generator/static/css/main.5fac421a.css",
-    "main.js": "/polytoria-bricks-generator/static/js/main.3b67853d.js",
+    "main.css": "/polytoria-bricks-generator/static/css/main.9f95c694.css",
+    "main.js": "/polytoria-bricks-generator/static/js/main.7c4171fb.js",
     "static/js/453.20359781.chunk.js": "/polytoria-bricks-generator/static/js/453.20359781.chunk.js",
     "index.html": "/polytoria-bricks-generator/index.html",
-    "main.5fac421a.css.map": "/polytoria-bricks-generator/static/css/main.5fac421a.css.map",
-    "main.3b67853d.js.map": "/polytoria-bricks-generator/static/js/main.3b67853d.js.map",
+    "main.9f95c694.css.map": "/polytoria-bricks-generator/static/css/main.9f95c694.css.map",
+    "main.7c4171fb.js.map": "/polytoria-bricks-generator/static/js/main.7c4171fb.js.map",
     "453.20359781.chunk.js.map": "/polytoria-bricks-generator/static/js/453.20359781.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fac421a.css",
-    "static/js/main.3b67853d.js"
+    "static/css/main.9f95c694.css",
+    "static/js/main.7c4171fb.js"
   ]
 }
